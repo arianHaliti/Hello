@@ -1,0 +1,16 @@
+lifecycke: init, add, commit
+version:log, checkout, reset
+branch:create, change & delete
+merge and rebase
+diff, show
+
+
+git commit --amand (change the comment that you provide there)
+
+
+
+git log 
+git log --oneline
+
+git reset # of the commit --hard
+
